@@ -73,6 +73,8 @@ body * {
   left: 0;
   z-index: 1;
   transform: translateY(-50%); /* posicionar absolute*/
+
+  animation: slide-back 0.2s;
 }
 
 .light #switch button {
